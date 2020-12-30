@@ -21,3 +21,7 @@ img.DAV {
 h3 {
     margin-top: 20px;
 }
+
+a.sc:hover {
+    transform: scale(1.1);
+}
