@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 * {
     scroll-behavior: smooth;
 }
@@ -16,4 +17,30 @@ img.AIM {
 
 img.DAV {
     height: 70px;
+}
+h3{
+    color: rgb(255, 255, 255); 
+    padding-bottom: 30px;
+}
+
+button.last {
+    background-color:rgb(34, 70, 67);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+}
+
+button.last:hover {
+    background-color:rgb(122, 239, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+div.hover-event:hover {
+    filter: opacity(80%);
+    filter: blur(2px);
 }
