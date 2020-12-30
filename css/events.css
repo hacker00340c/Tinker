@@ -42,5 +42,5 @@ button.last:hover {
 
 div.hover-event:hover {
     filter: opacity(80%);
-    filter: blur(2px);
+    filter: contrast(300%)
 }
