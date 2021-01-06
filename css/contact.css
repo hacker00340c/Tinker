@@ -17,3 +17,11 @@ img.AIM {
 img.DAV {
     height: 70px;
 }
+
+a.sc:hover {
+    transform: scale(1.1);
+}
+
+body{
+    min-width: 241px;
+}
