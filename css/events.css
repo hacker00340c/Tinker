@@ -55,3 +55,7 @@ div.line {
 div.linebox{
     border-width:2px;
 }
+
+body{
+    min-width: 241px;
+}
