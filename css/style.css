@@ -25,3 +25,20 @@ h3 {
 a.sc:hover {
     transform: scale(1.1);
 }
+
+#download {
+    background-color:rgb(34, 70, 67);
+    padding: 8px;
+    border-radius: 10px;
+    margin-top:18px;
+    margin-bottom: 13px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+}
+
+#download:hover {
+    background-color:rgb(122, 239, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
