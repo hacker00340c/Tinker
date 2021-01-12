@@ -41,22 +41,24 @@ a.sc:hover {
     font-weight: bold;
 }
 
-body{
+body {
     min-width: 241px;
 }
 
 .b {
     background-color: rgb(500, 80, 75);
+    margin: 0px 10px;
     padding: 11px;
     color: white;
     border-radius: 9px;
     font-size: 20px;
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
+    font-family: 'Roboto', enter;
     text-decoration: none;
-    display: block;
+    display: inline-block;
+    
 }
 
 .b:hover {
     background-color: rgb(800, 0, 100);
+    padding:20px;
 }
