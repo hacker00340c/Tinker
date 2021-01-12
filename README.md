@@ -1,3 +1,3 @@
 # Tinker
 
-![alt text](https://imgur.com/lU6RyVB "Logo Title Text 1")
+![alt text](https://i.imgur.com/lU6RyVB.gif "Logo Title Text 1")
