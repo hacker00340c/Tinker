@@ -30,8 +30,6 @@ a.sc:hover {
     background-color:rgb(34, 70, 67);
     padding: 8px;
     border-radius: 10px;
-    margin-top:18px;
-    margin-bottom: 13px;
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
     color: aliceblue;
@@ -45,4 +43,20 @@ a.sc:hover {
 
 body{
     min-width: 241px;
+}
+
+.b {
+    background-color: rgb(500, 80, 75);
+    padding: 11px;
+    color: white;
+    border-radius: 9px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+
+.b:hover {
+    background-color: rgb(800, 0, 100);
 }
