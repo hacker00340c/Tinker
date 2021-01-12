@@ -1,3 +1,3 @@
 # Tinker
 
-<img src = "https://imgur.com/lU6RyVB">
+![alt text](https://imgur.com/lU6RyVB "Logo Title Text 1")
