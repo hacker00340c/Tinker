@@ -61,4 +61,5 @@ body {
 .b:hover {
     background-color: rgb(800, 0, 100);
     padding:20px;
+    transition-duration: 0.6s;
 }
